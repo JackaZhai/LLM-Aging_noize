@@ -1,0 +1,13 @@
+torch==2.1.0
+torchvision==0.15.0
+torchaudio==2.1.0
+vllm==0.5.5
+vllm-flash-attn==2.6.1
+jsonlines
+rich
+fraction
+sympy==1.12
+jsonlines
+multiprocess
+backoff
+ray
